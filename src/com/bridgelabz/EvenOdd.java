@@ -16,8 +16,8 @@ public class EvenOdd {
 		System.out.println("checking whether the Number is Even or Odd: ");
 		System.out.println("Enter the Number: ");
 		int val = sc.nextInt();
-		checkEvenOrOdd(val);
-		
+		checkEvenOrOdd(13);
+		checkEvenOrOdd(12);
 	}
 
 }
